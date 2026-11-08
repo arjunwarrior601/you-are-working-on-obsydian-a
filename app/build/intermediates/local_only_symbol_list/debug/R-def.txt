@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color electric_blue
+color electric_blue_dark
+color electric_blue_glow
+color graphite_border
+color graphite_card
+color graphite_dark
+color graphite_surface
+color obsydian_black
+color titanium_bright
+color titanium_dark
+color titanium_light
+color titanium_medium
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string tagline
+style Theme.Obsydian
+xml backup_rules
+xml data_extraction_rules
