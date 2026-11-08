@@ -1,0 +1,10 @@
+/home/agent/workspace/app/src/main/java/com/obsydian/app/MainActivity.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/components/Buttons.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/components/Header.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/theme/Theme.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/components/Badges.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/theme/Type.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/theme/Shape.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/theme/Color.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/components/Cards.kt
+/home/agent/workspace/app/src/main/java/com/obsydian/app/ui/components/Controls.kt
