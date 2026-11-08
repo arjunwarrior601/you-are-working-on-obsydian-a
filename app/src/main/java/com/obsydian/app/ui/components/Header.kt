@@ -19,6 +19,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -43,7 +44,8 @@ fun ObsydianTopHeader(
                 width = 0.5.dp,
                 brush = Brush.verticalGradient(
                     colors = listOf(GraphiteBorder, GraphiteDarkest)
-                )
+                ),
+                shape = RectangleShape
             )
             .padding(horizontal = 20.dp, vertical = 16.dp)
     ) {

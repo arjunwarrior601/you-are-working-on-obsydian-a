@@ -460,7 +460,8 @@ fun ObsydianBottomBar(
             .background(GraphiteDarkest)
             .border(
                 width = 0.5.dp,
-                color = GraphiteBorder
+                color = GraphiteBorder,
+                shape = androidx.compose.ui.graphics.RectangleShape
             )
             .padding(horizontal = 24.dp, vertical = 10.dp),
         horizontalArrangement = Arrangement.SpaceAround,
