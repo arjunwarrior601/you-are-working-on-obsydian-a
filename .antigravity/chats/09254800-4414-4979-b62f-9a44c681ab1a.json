@@ -3,7 +3,7 @@
   "name": "You are working on OBSYDIAN, a",
   "createdAt": "2026-11-08T11:34:06.914Z",
   "filename": "09254800-4414-4979-b62f-9a44c681ab1a.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "63681f55-297c-4cbc-bd4d-c341828de02b",
@@ -21,13 +21,13 @@
       "id": "dfb4429f-98cf-474c-b993-f3bf8c31ef8a",
       "role": "user",
       "content": "aight start working",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-11-08T12:05:08.967Z",
       "sender": "ios",
-      "is_cancelled": false
+      "is_cancelled": true
     }
   ]
 }
