@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="electric_blue">#00D2FF</color>
+    <color name="electric_blue_dark">#0072CE</color>
+    <color name="electric_blue_glow">#3300D2FF</color>
+    <color name="graphite_border">#2C3340</color>
+    <color name="graphite_card">#1C212B</color>
+    <color name="graphite_dark">#0E1116</color>
+    <color name="graphite_surface">#141820</color>
+    <color name="obsydian_black">#0A0C0E</color>
+    <color name="titanium_bright">#F3F4F6</color>
+    <color name="titanium_dark">#4B5563</color>
+    <color name="titanium_light">#E5E7EB</color>
+    <color name="titanium_medium">#9CA3AF</color>
+    <string name="app_name">OBSYDIAN</string>
+    <string name="tagline">Beyond Playback</string>
+    <style name="Theme.Obsydian" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/obsydian_black</item>
+        <item name="android:navigationBarColor">@color/obsydian_black</item>
+        <item name="android:windowBackground">@color/obsydian_black</item>
+    </style>
+</resources>
